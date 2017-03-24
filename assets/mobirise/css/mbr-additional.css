@@ -411,3 +411,18 @@ h6,
 .scrollToTop_wraper {
   opacity: 0 !important;
 }
+#header5-1 .mbr-section-title {
+  color: #000;
+  text-align: right;
+}
+#header5-1 .mbr-section-lead {
+  color: #9c9a9a;
+}
+#social-buttons4-6 .mbr-section-title,
+#social-buttons4-6 .btn-social {
+  color: #fff;
+}
+#social-buttons4-6 .mbr-section-title {
+  text-align: center;
+  font-size: 25px;
+}
