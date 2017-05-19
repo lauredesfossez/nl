@@ -561,6 +561,7 @@ h6,
 }
 
 
+
 #ext_menu-b .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -625,6 +626,10 @@ h6,
 }
 #msg-box1-z .btn {
   font-family: 'Lato', sans-serif;
+}
+#msg-box1-z H2 {
+  font-family: 'Lato', sans-serif;
+  font-size: 14px;
 }
 
 
@@ -778,13 +783,13 @@ h6,
   color: #000000;
   font-family: 'Open Sans', sans-serif;
   font-size: 20px;
-  text-align: right;
+  text-align: center;
 }
 #features3-r H4 {
   font-family: 'Open Sans', sans-serif;
 }
 #features3-r P {
-  text-align: right;
+  text-align: center;
 }
 
 
@@ -862,6 +867,7 @@ h6,
   color: #fff;
 }
 #social-buttons4-u .mbr-section-title {
-  font-size: 20px;
+  font-size: 14px;
   font-family: 'Open Sans', sans-serif;
+  text-align: center;
 }
