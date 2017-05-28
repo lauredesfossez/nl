@@ -697,16 +697,21 @@ h6,
 #ext_menu-c .dropdown-item[aria-expanded="true"] {
   color: #cccccc!important;
 }
-#header6-o .mbr-section-title {
-  color: #efefef;
-  font-family: 'Open Sans', sans-serif;
-  text-align: left;
+#msg-box6-14 .mbr-section-title,
+#msg-box6-14 .lead p {
+  color: #fff;
 }
-#header6-o .mbr-section-text {
-  color: #efefef;
-  font-family: 'Open Sans', sans-serif;
-  font-size: 30px;
+#msg-box6-14 H3 {
+  color: #000000;
   text-align: left;
+  font-size: 32px;
+  font-family: 'Lato', sans-serif;
+}
+#msg-box6-14 P {
+  font-family: 'Lato', sans-serif;
+  color: #000000;
+  text-align: left;
+  font-size: 22px;
 }
 #slider3-n H2 {
   color: #efefef;
